@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'home_screen.dart';
 
-void main(List<String> args) {
+// void main(List<String> args) {khjkljak
   runApp(MyApp());
 }
 
